@@ -35,7 +35,6 @@ The project utilizes the **MNIST (Modified National Institute of Standards and T
     * `Sequential` API for model construction.
     * `Dense` layers for the neural network.
 * **Scikit-learn (sklearn)**:
-    * `MinMaxScaler` (though direct division by 255 was used for normalization).
     * `train_test_split` for splitting data into validation and test sets.
 
 ## Methodology
