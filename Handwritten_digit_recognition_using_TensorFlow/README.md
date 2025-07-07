@@ -91,6 +91,6 @@ The training process and convergence can be visualized by the loss curves below:
 
 ### Training and Validation Loss
 
-![Training and Validation Loss Plot](Images/train vs val.png)
+![Training and Validation Loss Plot](Images/train_vs_val.png)
 
 These results indicate that the model is performing well on both seen and unseen data, demonstrating its ability to generalize.
