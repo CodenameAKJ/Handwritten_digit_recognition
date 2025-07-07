@@ -1,1 +1,1 @@
-# Handwritten_digit_recognition-Binary-
+# Handwritten_digit_recognition
