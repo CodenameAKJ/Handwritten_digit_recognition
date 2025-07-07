@@ -64,6 +64,7 @@ The neural network consists of the following layers:
 
 
 Layer (type)----------------Output Shape--------------Param 
+
 L1 (Dense)-------------------(None, 32)---------------25120
 
 L2 (Dense)-------------------(None, 64)----------------2112
