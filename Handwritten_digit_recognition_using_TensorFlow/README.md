@@ -63,16 +63,19 @@ The project follows a standard machine learning workflow for image classificatio
 The neural network consists of the following layers:
 
 
-Layer (type)               Output Shape               Param 
-L1 (Dense)                  (None, 32)                25120
+Layer (type)----------------Output Shape--------------Param 
+L1 (Dense)-------------------(None, 32)---------------25120
 
-L2 (Dense)                  (None, 64)                2112
+L2 (Dense)-------------------(None, 64)----------------2112
 
-L3 (Dense)                  (None, 10)                650
+L3 (Dense)-------------------(None, 10)-----------------650
 
 =================================================================
+
 Total params: 27,882
+
 Trainable params: 27,882
+
 Non-trainable params: 0
 
 ## Results
